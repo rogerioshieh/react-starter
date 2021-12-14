@@ -17,4 +17,4 @@ jobs:
 workflows:
   use-my-orb:
     jobs:
-      - print-env-datagit
+      - print-env-data
