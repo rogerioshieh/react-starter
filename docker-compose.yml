@@ -4,7 +4,7 @@ services:
 
   react:
     labels:
-      shipyard.route: '/custom4'
+      shipyard.route: '/custom5'
     build:
       context: .
     volumes:
