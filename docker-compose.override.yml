@@ -4,4 +4,5 @@ services:
 
   react:
     environment:
-      TESTING: "override"
+      ADDED_ON_OVERRIDE: "added"
+      TESTING: "overridden"

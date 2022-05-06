@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+
+  react:
+    environment:
+      ADDED_ON_OVERRIDE_TWO: "added"
+      ADDED_ON_OVERRIDE: "overridden_on_2"
