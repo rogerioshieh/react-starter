@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
 
-  react-extra-long-service-name-even-longer-than-you-can-imagine:
+  react-extra-long-service-name-even-longer-than-you:
     labels:
       shipyard.route: '/'
     build:
