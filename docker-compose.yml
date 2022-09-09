@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
 
-  react:
+  react.with.period:
     labels:
       shipyard.route: '/'
     build:
